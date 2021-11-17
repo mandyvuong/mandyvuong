@@ -5,4 +5,5 @@ Recently completed Makers Academy, 16 weeks intensive coding bootcamp and I'm lo
 I've been learning JavaScript, React, Ruby, Ruby on Rails, HTML, CSS, PostgresSQL, Sinatra, Capybara, data structures and algorithms, and am competent using Git and GitHub.
 
 [Github CV](https://github.com/mandyvuong/CV)
+[Website](https://mandyvuong.github.io/portfolio/)
 
